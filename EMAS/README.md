@@ -1,4 +1,4 @@
-# Revisit-Closing-Open-Economy-Models-For-Emerging-Countries
+# Stability-DSGE-Financial-Frictions-Emerging-Countries
 Dynare codes for reproducing the output of the paper for seven models with Impluse response function with Stochastic steady state
 _A, represents model with Additive Risk Premium
 _M, shows the model with Multiplicative Risk Premium
